@@ -1,9 +1,10 @@
 # Stock Broker Client Dashboard
 
-## 📌 Project Overview
-The Stock Broker Client Dashboard is a real-time web application that allows users to log in using their email address, subscribe to supported stock tickers, and monitor live stock price updates without refreshing the page. The system supports multiple users simultaneously, with independent subscriptions and asynchronous updates.
+## 📊 Stock Broker Client Dashboard
 
-This project demonstrates the implementation of real-time communication and full-stack development using modern web technologies.
+A real-time Stock Broker Client Dashboard built using React and Node.js that allows users to subscribe to stock tickers and view live price updates without refreshing the page.
+
+This project demonstrates real-time data handling, user interaction, and clean UI design suitable for modern web applications.
 
 ---
 
@@ -18,6 +19,7 @@ This project demonstrates the implementation of real-time communication and full
 ---
 
 ## 📊 Supported Stocks
+The dashboard currently supports the following stock tickers:
 - GOOG
 - TSLA
 - AMZN
@@ -45,10 +47,20 @@ This project demonstrates the implementation of real-time communication and full
 ---
 
 ## 🌐 Live Demo
-**Web Page Link:**  
-https://stock-broker-dashboard-public.vercel.app
+**👉 Public Web Link:**  
+https://stock-dashboard-public.vercel.app/
 
----
+### 🧠 How It Works
+
+1) Users log in using an email address.
+
+2) Stock prices are simulated on the server and updated every second.
+
+3) Users can subscribe or unsubscribe from stocks.
+
+4) Subscribed stock prices update live using WebSockets.
+
+5) Multiple users can log in from different browsers and receive independent updates.
 
 ## ⚠️ Note
 This application uses **simulated stock prices** generated using a random number algorithm for demonstration purposes only. The data does not represent real market prices.
@@ -57,3 +69,7 @@ This application uses **simulated stock prices** generated using a random number
 
 ## 📌 Conclusion
 This project highlights practical experience in building and deploying a real-time, multi-user web application using React and Node.js. It showcases skills in WebSocket communication, full-stack integration, and cloud deployment.
+
+## 👤 Author
+Yallavva S Pujar
+Final Year Engineering Student
