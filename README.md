@@ -50,6 +50,8 @@ The dashboard currently supports the following stock tickers:
 **👉 Public Web Link:**  
 https://stock-dashboard-public.vercel.app/
 
+---
+
 ### 🧠 How It Works
 
 1) Users log in using an email address.
