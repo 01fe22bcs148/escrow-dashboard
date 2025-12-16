@@ -18,7 +18,7 @@ This project demonstrates real-time data handling, user interaction, and clean U
 
 ---
 
-## 📊 Supported Stocks
+## 📈 Supported Stocks
 The dashboard currently supports the following stock tickers:
 - GOOG
 - TSLA
