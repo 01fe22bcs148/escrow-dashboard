@@ -1,6 +1,12 @@
 {
-  "framework": "create-react-app",
-  "rootDirectory": "client",
-  "buildCommand": "npm install && npm run build",
-  "outputDirectory": "build"
+  "version": 2,
+  "builds": [
+    {
+      "src": "package.json",
+      "use": "@vercel/static-build",
+      "config": {
+        "distDir": "build"
+      }
+    }
+  ]
 }
