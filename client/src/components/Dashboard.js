@@ -2,7 +2,7 @@ import React, { useEffect, useState, useRef } from 'react';
 import { io } from 'socket.io-client';
 import StockRow from './StockRow';
 
-const SERVER = 'https://stock-dashboard-backend.onrender.com';
+const SERVER = 'https://escrow-dashboard-backend.onrender.com';
 
 export default function Dashboard({ email, onLogout }) {
   const [supported, setSupported] = useState([]);
