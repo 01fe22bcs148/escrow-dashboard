@@ -71,11 +71,29 @@ The application is publicly accessible and can be viewed without running the pro
 This application uses **simulated stock prices** generated using a random number algorithm for demonstration purposes only. The data does not represent real market prices.
 
 ---
+## 🧠 Key Learning Outcomes
 
+1) Real-time UI updates in React
+
+2) Frontend–backend communication
+
+3) Handling asynchronous data streams
+
+4) Production deployment with Vercel
+
+5) Debugging CRA production build issues
+
+   
 ## 📌 Conclusion
-This project highlights practical experience in building and deploying a real-time, multi-user web application using React and Node.js. It showcases skills in WebSocket communication, full-stack integration, and cloud deployment.
+This project successfully demonstrates the design and implementation of a real-time stock broker client dashboard. The system enables users to subscribe to stocks and view live price updates without refreshing the interface. By integrating frontend and backend components and deploying the application in a production environment, the project provides practical exposure to real-world web application development.
 
 ## 👤 Author
 Yallavva S Pujar
 
-Final Year Engineering Student
+B.E. Computer Science & Engineering
+
+KLE Technological University, Hubballi
+
+📧 Gmail: yspujar2022@gmail.com
+
+🔗 GitHub: 
