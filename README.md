@@ -87,7 +87,7 @@ This application uses **simulated stock prices** generated using a random number
 ## 📌 Conclusion
 This project successfully demonstrates the design and implementation of a real-time stock broker client dashboard. The system enables users to subscribe to stocks and view live price updates without refreshing the interface. By integrating frontend and backend components and deploying the application in a production environment, the project provides practical exposure to real-world web application development.
 
-
+---
 ## 👤 Author
 Yallavva S Pujar
 
